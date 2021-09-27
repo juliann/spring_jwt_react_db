@@ -1,7 +1,6 @@
 package com.nadarzy.spring_jwt_react_db.service;
 
 /** Created by Julian Nadarzy on 26/09/2021 */
-
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.nadarzy.spring_jwt_react_db.domain.User;
 import org.springframework.security.core.GrantedAuthority;
